@@ -12,17 +12,17 @@
 |北京炸酱面|Bei Jing Zha Jiang Mian|Noodles with soy bean paste Beijing style||
 |佛跳墙|Fo Tiao Qiang|Fo Tiao Qiang||
 |脆皮鸡|Cui Pi Ji|Crispy chicken||
-|夫妻肺片||Sliced Beef and Ox Tongue in Chili Sauce||
-|凉拌黄瓜|| Shredded Cucumber with Sauce||
-|泡椒凤爪|| Chicken Feet with Pickled Peppers||
-|皮蛋豆腐|| Tofu with Preserved Eggs||
-|板栗红烧肉 ||Braised Pork with Chestnuts||
-|回锅肉片|| Twice-Cooked Pork Slices||
-|火爆腰花 ||Sautéed Pig Kidney||
-|京酱肉丝 ||Sautéed Shredded Pork in Sweet Bean Sauce||
-|蚂蚁上树|| Sautéed Vermicelli with Spicy Minced Pork||
-|糖醋里脊 ||Sweet and Sour Pork Tenderloin||
-|糖醋排骨 ||Sweet and Sour Spare Ribs||
+|夫妻肺片|Fu Qi Fei Pian|Sliced Beef and Ox Tongue in Chili Sauce||
+|凉拌黄瓜|Liang Ban Huang Gua| Shredded Cucumber with Sauce||
+|泡椒凤爪|Pao Jiao Feng Zhua| Chicken Feet with Pickled Peppers||
+|皮蛋豆腐|Pi Dan Dou Fu| Tofu with Preserved Eggs||
+|板栗红烧肉 |Ban Li Hong Shao Rou|Braised Pork with Chestnuts||
+|回锅肉片|Hui Guo Rou Pian| Twice-Cooked Pork Slices||
+|火爆腰花 |Huo Pao Yao Hua|Sautéed Pig Kidney||
+|京酱肉丝 |Jing Jian Rou Si|Sautéed Shredded Pork in Sweet Bean Sauce||
+|蚂蚁上树|Ma Yi Shang Shu| Sautéed Vermicelli with Spicy Minced Pork||
+|糖醋里脊 |Tan Cu Li Ji|Sweet and Sour Pork Tenderloin||
+|糖醋排骨 |Tang Cu Pai Gu|Sweet and Sour Spare Ribs||
 |猪肉炖粉条|| Braised Pork with Vermicelli||
 |杭椒牛柳|| Sautéed Beef Fillet with Green Pepper||
 |黑椒牛柳|| Sautéed Beef Tenderloin with Black Pepper||
