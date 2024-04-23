@@ -53,17 +53,17 @@
 |家常豆腐 |Jia Chang Dou Fu|Home-Made Sautéed Tofu||
 |地三鲜|Di San Xian| Sautéed Potato, Green Pepper and Eggplant||
 |咸鸭蛋 |Xian Ya Dan|Salted Duck Egg||
-|炒河粉 ||Stir-Fried Rice Noodles||
-|炒面 ||Stir-Fried Noodles with Vegetables||
-|葱油饼 ||Baked Scallion Pancake||
-|脆皮春卷|| Crispy Spring Rolls||
-|豆腐脑儿|| Tofu Pudding||
-|豆浆|| Soy Beverage||
-|豆沙包|| Baozi Stuffed with Red Bean Paste||
-|锅贴|| Guotie (Pan-Fried Dumplings)||
-|拉面|| Hand-Pulled Noodle Soup||
-|油条|| Youtiao(Deep-Fried Dough Sticks)||
-|油炸臭豆腐 ||Deep-Fried Fermented Tofu||
+|炒河粉 |Chao He Fen|Stir-Fried Rice Noodles||
+|炒面 |Chao Mian|Stir-Fried Noodles with Vegetables||
+|葱油饼 |Cong You Bing|Baked Scallion Pancake||
+|脆皮春卷|Chui Pi Chun Juan| Crispy Spring Rolls||
+|豆腐脑儿|Dou Fu Nao Er| Tofu Pudding||
+|豆浆|Dou Jiang| Soy Beverage||
+|豆沙包|Dou Sha Bao| Baozi Stuffed with Red Bean Paste||
+|锅贴|Guo Tie| Guotie (Pan-Fried Dumplings)||
+|拉面|La Mian| Hand-Pulled Noodle Soup||
+|油条|You Tiao| Youtiao(Deep-Fried Dough Sticks)||
+|油炸臭豆腐 |You Zha Chou Dou Fu|Deep-Fried Fermented Tofu||
 |炒饭|Chao Fan|Fried Rice|Stir-fried rice with various ingredients like vegetables, eggs, meat (such as shrimp, beef, or chicken), and soy sauce.|
 |点心|Dian Xin|Dim Sum|Assorted bite-sized dishes, including dumplings, steamed buns, rice rolls, and other small savory or sweet treats.|
 |饺子|Jiao Zi|Jiaozi||
